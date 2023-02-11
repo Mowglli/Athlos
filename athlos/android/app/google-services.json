@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137183114388",
+    "project_id": "athlos-b3f96",
+    "storage_bucket": "athlos-b3f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137183114388:android:4627e89e918e3651e57081",
+        "android_client_info": {
+          "package_name": "com.example.athlos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137183114388-vm262v7cihvalsprljpbj7vl12tdvmna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJp4cVLZhZKg42VGyFnLWBWiv1Y1meJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137183114388-vm262v7cihvalsprljpbj7vl12tdvmna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
